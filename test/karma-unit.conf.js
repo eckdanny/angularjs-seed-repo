@@ -11,7 +11,7 @@ module.exports = function(config) {
     basePath: '../',
     frameworks: ['jasmine'],
     reporters: ['progress'],
-    browsers: ['phantomJS'],
+    browsers: ['PhantomJS'],
     autoWatch: false,
     singleRun: true,
     colors: true
